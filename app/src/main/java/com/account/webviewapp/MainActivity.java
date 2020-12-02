@@ -8,6 +8,7 @@ import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
 
+    //hvjvv
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
