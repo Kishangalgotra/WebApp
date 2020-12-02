@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         int a=0;
+        int b=0;
         setContentView(R.layout.activity_main);
         WebView webView = findViewById(R.id.web);
         webView.getSettings().setJavaScriptEnabled(true);
